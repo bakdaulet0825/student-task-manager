@@ -32,3 +32,14 @@ The application helps students organize and manage academic tasks.
 git clone <repository_link>
 cd student_task_manager
 pip install -r requirements.txt
+
+## Screenshots
+
+### Main Window
+![Main Window](screenshots/main_window.png)
+
+### JSON Storage
+![JSON Storage](screenshots/json_storage.png)
+
+### Unit Tests
+![Unit Tests](screenshots/tests.png)
